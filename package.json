@@ -1,0 +1,19 @@
+{
+  "name": "marp-cli-example",
+  "version": "0.0.0",
+  "author": "Yuki Hattori <yukihattori1116@gmail.com>",
+  "license": "WTFPL",
+  "private": true,
+  "scripts": {
+    "build": "rimraf dist && npm run -s og-image && npm run -s deck",
+    "deck": "marp --no-stdin PITCHME.md -o dist/index.html && cpx \"assets/**/*\" dist/assets",
+    "now-build": "npm i chrome-aws-lambda --no-save && CHROME_PATH=$(node .puppeteer.now.js) npm run -s build",
+    "og-image": "marp --no-stdin PITCHME.md -o dist/og-image.jpg",
+    "start": "marp -ps ."
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^0.11.3",
+    "cpx": "^1.5.0",
+    "rimraf": "^2.6.3"
+  }
+}
