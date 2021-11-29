@@ -30,13 +30,21 @@ Python is an interpreted high-level general-purpose programming language. Its de
 
 ---
 
-![bg right 60%](https://icongr.am/octicons/mark-github.svg)
+## **Output**
 
-## **[GitHub Pages](https://github.com/pages)**
-
-#### Ready to write & host your deck!
-
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
+#### Log to the console using `````print()`````
+```python
+# Outputing a string
+print("Hello World")
+# Outputing a number
+print(1)
+# Outputing more than one value
+print(1, 2, 3, 4, 5)
+# Concepts applied for different types
+# Outputing a variable
+x = "Hello World"
+print(x)
+```
 
 ---
 
