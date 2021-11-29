@@ -18,7 +18,7 @@ https://hariienesh1901.github.io/Python-Cheat-Sheet/
 
 ---
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
+![Marp bg 20%](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)
 
 ---
 
