@@ -25,9 +25,8 @@ https://hariienesh1901.github.io/Python-Cheat-Sheet/
 ![bg](#123)
 ![](#fff)
 
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
-
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
+##### <!--fit--> Introduction
+Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects. [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 ---
 
