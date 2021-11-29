@@ -48,13 +48,23 @@ print(x)
 
 ---
 
-![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
+## **Comments**
 
-## **[Netlify](https://www.netlify.com/)**
+#### Comments are used to explain the code
 
-#### Ready to write & host your deck!
+Comments will be never executed. You can even use comments to temproarily disable code.
 
-[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
+```python
+# This is a comment
+print("Hello World") # This is also a comment
+"""
+This is a
+multi-line commentC
+comment
+print("Hello World") This will never be executed
+"""
+```
+
 
 ---
 
