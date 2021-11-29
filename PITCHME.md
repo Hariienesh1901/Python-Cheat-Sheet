@@ -12,7 +12,7 @@ _paginate: false
 
 Python Cheat Sheet for Beginners
 
-https://hariienesh1901.github.io
+https://hariienesh1901.github.io/Python-Cheat-Sheet/
 
 <!-- This is presenter note. You can write down notes through HTML comment. -->
 
