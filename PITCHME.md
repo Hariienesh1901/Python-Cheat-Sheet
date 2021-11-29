@@ -1,21 +1,18 @@
 ---
 marp: true
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
+title: Python Cheat Sheet
+description: Python Cheat Sheet For Beginners
 theme: uncover
+_class: invert
 paginate: true
 _paginate: false
 ---
 
-![bg](./assets/gradient.jpg)
+# <!--fit--> **Python Cheat Sheet**
 
-# <!--fit--> Marp CLI example
+Python Cheat Sheet for Beginners
 
-Hosting Marp slide deck on the web
-
-https://github.com/yhatt/marp-cli-example
-
-<style scoped>a { color: #eee; }</style>
+https://hariienesh1901.github.io
 
 <!-- This is presenter note. You can write down notes through HTML comment. -->
 
